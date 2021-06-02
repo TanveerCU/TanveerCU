@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TanveerCU
+- 👋 Hi, I’m Tanveer Ahmed
 - 👀 I’m interested in new challenges
 - 🌱 I’m currently learning MERN stack
 - 📫 My email : atanveer712@gmail.com
